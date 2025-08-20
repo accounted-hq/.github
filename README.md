@@ -43,6 +43,7 @@ Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) and follow the [Code of Con
 
 ## 📄 License
 All repositories specify their license explicitly.
+Unless noted otherwise, core code is released under [EUROPEAN UNION PUBLIC LICENCE v. 1.2 (EUPL v1.2)](https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt).
 
 ---
 
