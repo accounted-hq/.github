@@ -37,7 +37,7 @@ We welcome contributions from developers, accountants, and curious builders.
 - Submit PRs with improvements, features, or fixes
 - Join discussions in our community channels
 
-Please read our [CONTRIBUTING.md](./CONTRIBUTING.md) and follow the [Code of Conduct](./CODE_OF_CONDUCT.md).
+Please read [CONTRIBUTING](../CONTRIBUTING.md) and follow the [Code of Conduct](../CODE_OF_CONDUCT.md).
 
 ---
 
